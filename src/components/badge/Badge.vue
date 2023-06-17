@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <p>crotte</p>
+  <v-badge content="crotte"></v-badge>
 </template>
 
 <style scoped>
